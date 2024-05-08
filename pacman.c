@@ -672,4 +672,3 @@ void reset_blink() {
 void reset() {
 	printf("\033[0m");
 }
-austin.taylor@dev:~/csc150$ 
